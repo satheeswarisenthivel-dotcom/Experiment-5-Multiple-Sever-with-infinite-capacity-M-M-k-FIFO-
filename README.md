@@ -72,7 +72,8 @@ print("-----------------------------------------------------")
 https://colab.research.google.com/drive/1aiOWa3ZM5gT95rcqLNgkqVEINog5lUim?usp=sharing
 
 
-# Output
+# OUTPUT
+
 ```
 Enter the mean inter arrival time of objects from feeder (in secs):10
 Enter the mean inter service time of lathe machine (in secs):1
