@@ -73,7 +73,7 @@ https://colab.research.google.com/drive/1aiOWa3ZM5gT95rcqLNgkqVEINog5lUim?usp=sh
 
 
 # Output
-~~~
+```
 Enter the mean inter arrival time of objects from feeder (in secs):10
 Enter the mean inter service time of lathe machine (in secs):1
 Enter the Additional time taken for the robot (in secs):7
@@ -90,7 +90,7 @@ Average waiting time of an object in the conveyor: 9.52 secs
 Probability that the system is busy: 0.40
 Probability that the system is empty:0.60 
 -----------------------------------------------------
-~~~
+```
 
 
 
